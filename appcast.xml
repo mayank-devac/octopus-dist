@@ -1,6 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
+    <item>
+      <title>Octopus 2.1.0 Beta</title>
+      <pubDate>Mon, 12 Oct 2026 19:21:09 GMT</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/mayank-devac/octopus-dist/releases/download/v2.1.0-build.4/Octopus-2.1.0-4.zip" length="4345577" type="application/octet-stream" sparkle:edSignature="GylBsJLEqAJAn9ahkWSDa4hfMlJuNgqR5hwtEqZTUzOWfWw6TtAO67spXV8aGmgyco0XAmcynDOCOQfp/M+JCw==" />
+    </item>
     <title>Octopus Beta Updates</title>
     <link>https://github.com/mayank-devac/octopus-dist/releases</link>
     <description>Free Octopus beta updates.</description>
