@@ -2,6 +2,14 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>Octopus 2.1.10 Beta</title>
+      <pubDate>Sat, 14 Nov 2026 14:15:16 GMT</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>2.1.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/mayank-devac/octopus-dist/releases/download/v2.1.10-build.15/Octopus-2.1.10-15.zip" length="21915248" type="application/octet-stream" sparkle:edSignature="Du+CPwcKPYyyra99yZcW+jE4K1RHGauu9Tnpf/kFAXsiGMXdhAv6qOez4pb3EPkhUdhIxMGv6/g/HcNEnxAcDg==" />
+    </item>
+    <item>
       <title>Octopus 2.1.9 Beta</title>
       <pubDate>Sat, 14 Nov 2026 11:44:20 GMT</pubDate>
       <sparkle:version>14</sparkle:version>
